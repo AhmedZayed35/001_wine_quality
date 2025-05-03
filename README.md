@@ -31,7 +31,7 @@ Before building machine learning models, we performed exploratory data analysis 
 #### Heat Map
 To better understand the relationships between features and identify multicollinearity, we plotted a **correlation heatmap** using a threshold of 0.7. This helped highlight strong relationships between variables.
 
-![Correlation Heatmap](assets\heatmap_correlations.png)
+![Correlation Heatmap](assets/heatmap_correlations.png)
 
 
 ####  Alcohol Content vs. Wine Quality
