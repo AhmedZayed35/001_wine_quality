@@ -55,7 +55,7 @@ The bar chart below shows the average alcohol content across different wine qual
 > 📌 While XGBoost overfits slightly, SVC provides the best generalization performance.
 ---
 
-### 📊 Models Confusion Matricies
+### 📊 Models Confusion Matrices
 
 ![SVC Confusion Matrix](assets\confusion_matrices.png)
 
