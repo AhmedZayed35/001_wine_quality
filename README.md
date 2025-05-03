@@ -57,7 +57,7 @@ The bar chart below shows the average alcohol content across different wine qual
 
 ### 📊 Models Confusion Matrices
 
-![SVC Confusion Matrix](assets\confusion_matrices.png)
+![SVC Confusion Matrix](assets/confusion_matrices.png)
 
 ## 🧠 Technologies Used
 
