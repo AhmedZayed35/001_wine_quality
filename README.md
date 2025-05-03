@@ -1,3 +1,70 @@
+# 🍷 Wine Quality Prediction
+
+> Predicting wine quality using machine learning based on physicochemical tests.
+
+This project demonstrates a practical application of supervised machine learning for binary classification. Using real-world wine quality data, we predict whether a given wine sample is of good or bad quality, based on various chemical attributes.
+
+---
+
+## 🚀 Features
+
+- Clean data preprocessing pipeline
+- Exploratory Data Analysis (EDA) with insightful visualizations
+- Machine Learning classification using XGBoost and others
+- Performance evaluation with metrics and plots
+- Easily extensible and reproducible
+
+---
+
+## 📊 Demo
+
+<!-- Replace the links below with your actual images or gifs -->
+![EDA Preview](assets/eda_preview.png)
+*EDA of alcohol vs wine quality*
+
+![Model Performance](assets/model_performance.png)
+*Confusion matrix and classification report*
+
+---
+
+## 🧠 Technologies Used
+
+- Python 3.6+
+- pandas, numpy
+- seaborn, matplotlib
+- scikit-learn
+- XGBoost
+
+---
+
+## 🛠️ Installation
+
+Clone the repository:
+```bash
+git clone https://github.com/AhmedZayed35/001_wine_quality.git
+cd 001_wine_quality
+```
+
+Install dependencies:
+
+
+```bash 
+pip install -r requirements.txt
+```
+## 📂 Project Structure
+```
+001_wine_quality/ 
+├── data/
+│   └── winequality.csv
+├── model.py
+├── requirements.txt
+└── README.md
+```
+
+
+
+
+
 # Wine Quality Prediction
 
 This repository contains code for predicting wine quality using machine learning algorithms. The dataset used for this project is "winequality.csv", and the goal is to predict whether a wine's quality is above a certain threshold.
